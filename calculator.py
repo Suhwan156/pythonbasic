@@ -1,7 +1,6 @@
 from tkinter import *
 from math import pi, e, sin, cos, tan, log, log10, ceil, degrees, radians, exp, asin, acos, floor
 
-
 class calculator:
     def __init__(self):
         window = Tk()
